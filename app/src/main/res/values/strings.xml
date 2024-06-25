@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Expense tracker</string>
+    <string name="main_title">Расходы</string>
+    <string name="main_month">Месяц: </string>
+    <string name="main_sums">0/0</string>
+    <string name="main_button">+</string>
+    <string name="expense_color_hint">Напишите цвет(HEX)</string>
+    <string name="expense_name_hint">Наименование затраты</string>
+    <string name="expense_price_hint">Стоимость</string>
+    <string name="expense_date_hint">Дата</string>
+    <string name="expense_date_comment">Если дата пуста, будет установлена текущая</string>
+    <string name="expense_add_title">Новая покупка</string>
+    <string name="expense_add_button">Создать</string>
+    <string name="expense_item_initial_name">Покупка</string>
+    <string name="expense_item_initial_sum">100</string>
+    <string name="limit_add_title">Установите предел трат на выбранный месяц</string>
+    <string name="limit_add_hint">Число</string>
+    <string name="limit_add_edit_date">Выбрать дату</string>
+    <string name="limit_add_button">Подтвердить</string>
+</resources>
